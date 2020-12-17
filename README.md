@@ -29,7 +29,7 @@ $ cd E:(找到E盘)
 $ cd www(假如在www文件夹下)
 $ mkdir testgit（新建名叫testgit的文件夹）
 $ cd testgit（找到testgit文件夹）
-$ pwd （显示当前目录）
+$ pwd （显示当前目录） 
 /e/testgit
 pwd命令用于显示当前目录。在我的电脑上，这个仓库位于/e/testgit
 

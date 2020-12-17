@@ -47,9 +47,6 @@ Initialized empty Git repository in E:/testgit/.git/
 
 命令详细步骤
 电脑磁盘下的.git
-
-
-这里写图片描述
 2.2把文件添加到版本库中。
 首先这里再明确一下，所有的版本控制系统，其实只能跟踪文本文件的改动，比如TXT文件，网页，所有的程序代码等等，Git也不例外。版本控制系统可以告诉你每次的改动，比如在第5行加了一个单词“Linux”，在第8行删了一个单词“Windows”。而图片、视频这些二进制文件，虽然也能由版本控制系统管理，但没法跟踪文件的变化，只能把二进制文件每次改动串起来，也就是只知道图片从100KB改成了120KB，但到底改了啥，版本控制系统不知道，也没法知道。
 
@@ -69,8 +66,6 @@ $ git add readme.txt
 
 第二步，用命令git commit告诉Git，把文件提交到仓库：
 $ git commit -m "wrote a readme file" [master (root-commit) cb926e7] wrote a readme file 1 file changed, 2 insertions(+) create mode 100644 readme.txt
-
-如下图：
 
 
 这里写图片描述

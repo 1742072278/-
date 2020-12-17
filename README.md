@@ -1,6 +1,6 @@
 ﻿# git工作原理
 <a><font size='4'>*Git本地有三个工作区域：工作目录（Working Directory）、暂存区(Stage/Index)、资源库(Repository或Git Directory)。如果在加上远程的git仓库(Remote Directory)就可以分为四个工作区域。文件在这四个区域之间的转换关系如下：*</font></a>
-![如图](https://mmbiz.qpic.cn/mmbiz_png/uJDAUKrGC7Ksu8UlITwMlbX3kMGtZ9p0NJ4L9OPI9ia1MmibpvDd6cSddBdvrlbdEtyEOrh4CKnWVibyfCHa3lzXw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
 - Workspace：工作区，就是你平时存放项目代码的地方
 
 - Index / Stage：暂存区，用于临时存放你的改动，事实上它只是一个文件，保存即将提交到文件列表信息
@@ -56,4 +56,4 @@ $ git clone [url]
 ## <font size='6'> 7）mkdir:  新建一个目录,就是新建一个文件夹。
 ## <font size='6'> 8）rm -r :  删除一个文件夹, rm -r src 删除src目录
 
-<a href="https://github.com/hao3145/hao">项目提交的github地址</a>
+<a href="https://github.com/1742072278/-">项目提交的github地址</a>
